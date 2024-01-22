@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.content{
+    width: 100%;
+}
+
+.sidebar{
+    min-height: 800px;
+}
+
+.postcard{
+    margin: 20px 50px;
+}
+
+.hashtag{
+    margin: 0px 3px;
+}
+
+.reaction{
+    margin: 15px 0px 0px 0px;
+}
+
+.createpost{
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 50px;
+}
+
+.message{
+    margin-top: 30px;
+}
